@@ -1,0 +1,29 @@
+:root {
+  --color-bg: #f6f8fb;
+  --color-surface: #ffffff;
+  --color-border: #dbe2ea;
+  --color-text: #182230;
+  --color-text-muted: #526071;
+  --color-primary: #1d4ed8;
+  --color-primary-hover: #1e40af;
+  --color-danger: #b91c1c;
+  --color-danger-bg: #fef2f2;
+  --color-warning: #92400e;
+  --color-warning-bg: #fffbeb;
+  --color-success: #166534;
+  --color-success-bg: #dcfce7;
+  --color-info: #1e40af;
+  --color-info-bg: #dbeafe;
+  --color-neutral: #374151;
+  --color-neutral-bg: #f3f4f6;
+
+  --radius-sm: 6px;
+  --radius-md: 10px;
+  --space-1: 4px;
+  --space-2: 8px;
+  --space-3: 12px;
+  --space-4: 16px;
+  --space-5: 24px;
+  --touch-min: 44px;
+  --max-width: 1040px;
+}
